@@ -21,7 +21,7 @@ function logWhisper(oneMore){
 function sayHiToHeadphonedRoommate(string){
   switch (string){
     case string.toLowerCase():
-       return "I Can't hear you!";
+       return "I can\'t hear you!";
     break;
     case string.toUpperCase():
       return "YES INDEED!";
